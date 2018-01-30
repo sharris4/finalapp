@@ -1,5 +1,5 @@
-## My Final App
-### Sam Harris
+# My Final App
+## Sam Harris
 
 You can use the [editor on GitHub](https://github.com/sharris4/finalapp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
