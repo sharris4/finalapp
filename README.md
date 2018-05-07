@@ -16,5 +16,5 @@ Once I had all of this, it was fairly easy to evaluate the possible values for e
 I was really hoping to improve on the way the user inputs their puzzle. Unfortunitely, it proved to be very difficult so I decided to leave the app as is.
 
 ## Where?
-You can run the .exe from my app's github page
+You can run the .exe from my app's github and clicking along the path finalapp/SudokuSolver/Debug/
       
