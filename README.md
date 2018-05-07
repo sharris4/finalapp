@@ -1,9 +1,9 @@
 # My Final App
 ## Sam Harris
 
-You can use the [editor on GitHub](https://github.com/sharris4/finalapp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+As many people probably agree, I love doing to weekly Sudoku puzzle in the Sunday paper. I don't, however, enjoy having to wait an entire week to check my answers. This is what made me want to put together a Sudoku Solver application.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
